@@ -388,7 +388,7 @@ a {
 
 .ins {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   flex-wrap: wrap;
 }
 
@@ -406,7 +406,6 @@ a {
   width: 675px;
   padding-left: 30px;
   margin-top: 20px;
-  margin-left: 165px;
 
   border: 2px solid #000;
   border-radius: 7px;
