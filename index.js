@@ -283,17 +283,17 @@ function prev_car() {
 
   switch (car_name) {
     case 'K9':
-      imagePath = './차/' + car_rotaion + '.png';
+      imagePath = './' + car_rotaion + '.png';
       alt = car_rotaion;
       break;
 
     case '투싼':
-      imagePath = './차/' + car_rotaion + '.png';
+      imagePath = './' + car_rotaion + '.png';
       alt = car_rotaion;
       break;
 
     case '토레스':
-      imagePath = './차/' + car_rotaion + '.png';
+      imagePath = './' + car_rotaion + '.png';
       alt = car_rotaion;
       break;
   }
